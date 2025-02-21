@@ -148,6 +148,10 @@
 6. How the concurrent hashmap works internally?
 7. 
 
+# Walmart
+1. find a number from rotated binary search?
+2. desing a class in way we can have a group of sensitive and non-sensitive attributes?
+
 # Random:-
 
 1. Rest vs Restfull service.
