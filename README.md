@@ -138,7 +138,15 @@
 10. 2phase commit?
 11. count a character question?
 12. CQRS?
-13. 
+
+# TSYS
+1. what are the desing patterns used in microservice?
+2. what is interceptors in springboot? can we register the interceptor per controller or it is for all the controllers?
+3. Explaing the flow of Filter, servlet, interceptors, controller
+4. Given array of numbers find pairs which are given target sum?
+5. Given balanced tree, except root and leaf replace all its values from sum of left and right nodes.
+6. How the concurrent hashmap works internally?
+7. 
 
 # Random:-
 
