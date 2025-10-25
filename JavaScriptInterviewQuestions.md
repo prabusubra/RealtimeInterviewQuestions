@@ -1,6 +1,7 @@
 # JavaScript Interview Questions:-
 1. What is the difference between Object.assign vs spread operator?
-2. 
+2. Promise.all vs Promise.allSettled?
+3. 
 
 # ReactJS:-
 1. PureRenderMixin?
