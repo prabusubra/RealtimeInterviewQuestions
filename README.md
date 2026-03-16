@@ -153,12 +153,13 @@
 2. desing a class in way we can have a group of sensitive and non-sensitive attributes?
 
 # Warner Bros Discovery(WBD)
-1.Recently solved technical problem?
-2. What is message delivery semantics in kafka?
-3. if one consumer continously infinitely fails, how do you solve this issue?
-4. Thundering Herd problem? what is randomness?
-5. Product of array except itself
-6. Median of two sorted array?
+
+1. Recently solved technical problem?
+2. What is message delivery semantics in Kafka?
+3. If one consumer continuously and infinitely fails, how do you solve this issue?
+4. What is the Thundering Herd problem? What is randomness?
+5. Product of array except itself.
+6. Median of two sorted arrays.
 7. 
 
 # Random:-
