@@ -152,6 +152,15 @@
 1. find a number from rotated binary search?
 2. desing a class in way we can have a group of sensitive and non-sensitive attributes?
 
+# Warner Bros Discovery(WBD)
+1.Recently solved technical problem?
+2. What is message delivery semantics in kafka?
+3. if one consumer continously infinitely fails, how do you solve this issue?
+4. Thundering Herd problem? what is randomness?
+5. Product of array except itself
+6. Median of two sorted array?
+7. 
+
 # Random:-
 
 1. Rest vs Restfull service.
